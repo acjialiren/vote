@@ -1,0 +1,84 @@
+nav {
+	margin-top:10px;
+}
+
+nav a.brand {
+	font-family:scada;
+}
+
+.candidate h3 {
+	font-size: 14pt;
+	margin-bottom:0px;
+}
+
+.candidate .pull-right {
+	font-size:11pt;
+	font-style:italic;
+	font-weight:normal;
+	color:#444;
+}
+
+.candidate-name {
+	font-family:scada;
+	font-size:12pt;
+}
+
+.party {
+	float:left;
+	height:20px;
+	line-height:20px;
+	text-align: center;
+	color:#fff;
+	margin:8px 14px 0px 0px;
+}
+
+.party.rep {
+	
+}
+
+.party.dem {
+	
+}
+
+.frame {
+	background:#efefef;
+	border:1px solid #999;
+	padding:8px;
+}
+
+.frame p {
+	text-align:center;
+	margin:6px 0px 0px 0px;
+}
+
+.inline label input {
+	float:left;
+	margin-right:4px;
+}
+
+.inline label {
+	display:inline-block;
+	margin:4px 20px 0px 0px;
+}
+
+.results {
+	margin-top:20px;
+	border:1px solid #999;
+	padding:10px;
+	border-radius:8px;
+}
+
+.results h2 {
+	margin:20px 0px 40px 0px;
+	font-family: scada;
+	font-size:40pt;
+	text-transform: uppercase;
+}
+
+.votes {
+	margin-top: 10px;
+}
+
+.votes .progress {
+	margin:0px;
+}
